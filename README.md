@@ -46,4 +46,5 @@ The system does not perform actual property assessments, official document verif
 ## Project Team
 
 **BYTE NEXUS**
+
 An academic project developed for Introduction to Computing and Computer Programming.
